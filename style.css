@@ -1,0 +1,31 @@
+
+
+
+
+/* body lul */
+body {background-image:url('background.jpg');margin-left:130px;margin-right:150px;background-attachment:fixed;}
+/* body lul */
+
+/* normal */
+h1 {text-align:center;color:#666666;font-family:arial;font-style:bold;}
+/* normal */
+
+/* sidebar */
+li.sb {border:2px solid #666666;background-color:#c0c0c0;width:130px;text-align:center;padding:2px;margin-top:3px;margin-bottom:3px;}
+ul.sb {list-style-type:none;margin:0;padding:0;}
+div.sb {position:fixed;float:left;margin-top:3px;}
+p.sbtitle {color:white;width:130px;margin:0;padding:0;text-align:center;font-family:Arial;text-transform:uppercase;font-size:14px;font-weight:bold;}
+/* sidebar */
+
+/* content */
+div.textbody {margin-left:150px;margin-top:0px;background-color:#c0c0c0;border:2px solid #666666}
+p.pg {margin-left:20px;font-family:arial;}
+/* content */
+
+/* header */
+p.hd {border:2px solid #666666;background-color:#c0c0c0;margin-top:10px;margin-bottom:0;}
+a.hd {margin:3px 35px 3px 3px;position:relative;right:-800px;}
+/* header */
+
+/* unsorted */
+a {text-decoration:none;color:#000000;font-family:arial;}
